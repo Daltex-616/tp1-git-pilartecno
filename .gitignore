@@ -1,0 +1,2 @@
+#el .env par que no suba la suerp mega clave que no debe ser rastreada por git
+.env
