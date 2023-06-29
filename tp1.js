@@ -46,5 +46,5 @@ function main() {
   console.log(arrayToLengthCounters(['gato', 'perro', 'elefante']));
   console.log(findKeysInCommon({a: 1, b: 2, c: 3}, {b: 4, c: 5, d: 6}));
 }
-
+ 
 main();
